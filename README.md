@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Na%20Yu%20Kyung&fontSize=60&desc=Backend%20Developer&descSize=25&descAlign=70&descAlignY=75&animation=twinkling)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayukyung123&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nayukyung123&theme=tokyonight&include_all_commits=true" /> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jh123000" />
+
 
 <h3 align="center"> Back Tech Stack </h3>
 <p align="center">
@@ -29,23 +31,8 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/>
 </p>
 
-<h3>💡 My Git Stats 💡</h3>
+<h3> Project </h3>
 
 2025.07 ~ 2021.09 - SolSolHey (웹; Spring Boot + Vue.js)<br>
 2025.10 ~ 2025.12 - Chill&Code (웹; Spring Boot + Vue.js)<br>
 2026.01 ~ 2026.02 - FOODPASS (웹; Spring Boot)
-
-<h3>💡 My Most Used Languages 💡</h3>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayukyung123&theme=tokyonight" />
-
-<h3>💡 My Git Stats 💡</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nayukyung123&show_icons=true&theme=tokyonight&hide_title=true" />
-
-<h3>💡 Algorithm 💡</h3>
-
-<a href="https://solved.ac/jh123000/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jh123000" />
-</a>
-
