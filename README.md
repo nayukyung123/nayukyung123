@@ -36,5 +36,10 @@
 <h3> Project </h3>
 
 2025.07 ~ 2021.09 - SolSolHey (웹; Spring Boot + Vue.js)<br>
+[![Notion](https://img.shields.io/badge/SolSolHey-000000?style=for-the-badge&logo=notion&logoColor=white)](https://whimsical-mandolin-a6a.notion.site/SolSolHey-2669e43c24b681a190c3c3e73a8d2851)
+
 2025.10 ~ 2025.12 - Chill&Code (웹; Spring Boot + Vue.js)<br>
-2026.01 ~ 2026.02 - FOODPASS (웹; Spring Boot)
+[![Notion](https://img.shields.io/badge/Chill%26Code-000000?style=for-the-badge&logo=notion&logoColor=white)](https://whimsical-mandolin-a6a.notion.site/Chill-Code-2df9e43c24b6818192a7d0714990ae50)
+
+2026.01 ~ 2026.02 - FOODPASS (웹; Spring Boot)<br>
+[![Notion](https://img.shields.io/badge/FOODPASS-000000?style=for-the-badge&logo=notion&logoColor=white)](https://whimsical-mandolin-a6a.notion.site/FOODPASS-3039e43c24b680c9bd78e6fd654e1f85)
