@@ -1,4 +1,4 @@
-# NA YU KYUNG | 개발 꿈나무
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Na%20Yu%20Kyung&fontSize=60&desc=Backend%20Developer&descSize=25&descAlign=70&descAlignY=75&animation=twinkling)
 
 ## Projects
 2025.07 ~ 2021.09 - SolSolHey (웹; Spring Boot + Vue.js)
