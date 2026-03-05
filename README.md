@@ -1,11 +1,11 @@
 # NA YU KYUNG | 개발 꿈나무
 
 ## Projects
-2025.07 ~ 2021.09 - 쏠쏠헤이 (웹; Spring Boot + Vue.js)
+2025.07 ~ 2021.09 - SolSolHey (웹; Spring Boot + Vue.js)
 
-2025.10 ~ 2025.12 - 칠앤코드 (웹; Spring Boot + Vue.js)
+2025.10 ~ 2025.12 - Chill&Code (웹; Spring Boot + Vue.js)
 
-2021.12 ~ ing - 대학시간 리뉴얼 (웹)
+2026.01 ~ 2026.02 - FOODPASS (웹;Spring Boot + Docker)
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
