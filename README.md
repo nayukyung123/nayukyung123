@@ -37,7 +37,7 @@
 
 <h3>💡 My Most Used Languages 💡</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayukyung123&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayukyung123&theme=tokyonight" />
 
 <h3>💡 My Git Stats 💡</h3>
 
