@@ -5,7 +5,7 @@
 
 2025.10 ~ 2025.12 - Chill&Code (웹; Spring Boot + Vue.js)
 
-2026.01 ~ 2026.02 - FOODPASS (웹;Spring Boot + Docker)
+2026.01 ~ 2026.02 - FOODPASS (웹;Spring Boot)
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
