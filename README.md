@@ -1,15 +1,18 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Na%20Yu%20Kyung&fontSize=60&desc=Backend%20Developer&descSize=25&descAlign=70&descAlignY=75&animation=twinkling" alt="header">
   
-  <br><br>
+  <br><br><br>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayukyung123&theme=tokyonight" />
+  
+  <br><br>
+
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jh123000" />
-  <br>
+  
+  <br><br>
+
   <img src="https://streak-stats.demolab.com?user=nayukyung123&theme=tokyonight" />
 </div>
-
-
 
 
 <h3 align="center"> Back Tech Stack </h3>
