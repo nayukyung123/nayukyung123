@@ -1,17 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Na%20Yu%20Kyung&fontSize=60&desc=Backend%20Developer&descSize=25&descAlign=70&descAlignY=75&animation=twinkling" alt="header">
-  
-  <br><br><br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayukyung123&theme=tokyonight" />
-  
-  <br><br>
-
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jh123000" />
-  
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=nayukyung123&theme=tokyonight" />
 </div>
 
 
@@ -69,6 +57,8 @@
   <img src="https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=junit5&logoColor=white"/>
 </p>
 
+<div align="center">
+  
 <h3> Project </h3>
 
 2025.07 ~ 2021.09 - SolSolHey (웹; Spring Boot + Vue.js)<br>
@@ -79,3 +69,22 @@
 
 2026.01 ~ 2026.02 - FOODPASS (웹; Spring Boot)<br>
 [![Notion](https://img.shields.io/badge/FOODPASS-000000?style=for-the-badge&logo=notion&logoColor=white)](https://whimsical-mandolin-a6a.notion.site/FOODPASS-3039e43c24b680c9bd78e6fd654e1f85)
+<br><br>
+
+</div>
+
+
+  <div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayukyung123&theme=tokyonight" />
+  
+  <br><br>
+
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jh123000" />
+  
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=nayukyung123&theme=tokyonight" />
+
+
+  </div>
