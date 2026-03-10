@@ -5,32 +5,59 @@
 
 
 
+
 <h3 align="center"> Back Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring WebFlux-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000.svg?&style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 <h3 align="center"> DataBase Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2-1565C0.svg?&style=for-the-badge&logo=h2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-C0392B.svg?&style=for-the-badge&logo=mybatis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flyway-CC0200.svg?&style=for-the-badge&logo=flyway&logoColor=white"/>
+</p>
+
+<h3 align="center"> AI Tech Stack </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google Gemini-4285F4.svg?&style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI GPT-10A37F.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Cloud Vision-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 <h3 align="center"> Etc Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-7B5EA7.svg?&style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-F57C00.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 <h3 align="center"> Tools </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=junit5&logoColor=white"/>
 </p>
 
 <h3> Project </h3>
