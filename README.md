@@ -51,17 +51,17 @@
   
 <h3> Project </h3>
 
-2025.07 ~ 2021.09 - SolSolHey (웹; Spring Boot <br>
-[![Notion](https://www.notion.so/SolSolHey-97be1304e90d8217a991818302d074da?source=copy_link)
+2025.07 ~ 2021.09 - SolSolHey (웹; Spring Boot) <br>
+[![Notion](https://img.shields.io/badge/SolSolHey-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/SolSolHey-97be1304e90d8217a991818302d074da?source=copy_link)
 
-2025.10 ~ 2025.12 - Chill&Code (웹; Spring Boot )<br>
-[![Notion]([https://img.shields.io/badge/Chill%26Code-000000?style=for-the-badge&logo=notion&logoColor=white)](https://whimsical-mandolin-a6a.notion.site/Chill-Code-2df9e43c24b6818192a7d0714990ae50](https://www.notion.so/Chill-Code-a42e1304e90d839290bf015123039da3?source=copy_link))
+2025.10 ~ 2025.12 - Chill&Code (웹; Spring Boot)<br>
+[![Notion](https://img.shields.io/badge/Chill%26Code-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Chill-Code-a42e1304e90d839290bf015123039da3?source=copy_link)
 
 2026.01 ~ 2026.02 - FOODPASS (웹; Spring Boot)<br>
-[![Notion](https://www.notion.so/FoodPass-8f4e1304e90d824c9c59814d1da9374d?source=copy_link)
+[![Notion](https://img.shields.io/badge/FOODPASS-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/FoodPass-8f4e1304e90d824c9c59814d1da9374d?source=copy_link)
 
 2026.02 ~ 2026.03 - AL-Maeng (웹; Spring Boot)<br>
-[![Notion](https://www.notion.so/Al-Maeng-323e1304e90d80488e1bf8bb8c448346?source=copy_link)
+[![Notion](https://img.shields.io/badge/AL--Maeng-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Al-Maeng-323e1304e90d80488e1bf8bb8c448346?source=copy_link)
 <br><br>
 
 
