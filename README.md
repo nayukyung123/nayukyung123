@@ -33,8 +33,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-F57C00.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
+
 </p>
 
 <h3 align="center"> Tools </h3>
