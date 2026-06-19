@@ -60,6 +60,9 @@
 
 2026.02 ~ 2026.03 - AL-Maeng (웹; Spring Boot)<br>
 [![Notion](https://img.shields.io/badge/AL--Maeng-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Al-Maeng-323e1304e90d80488e1bf8bb8c448346?source=copy_link)
+
+2026.03 ~ 2026.04 - Phosom (웹; Spring Boot)<br>
+[![Notion](https://img.shields.io/badge/Phosom-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/97743a99493883bc917f81e3fd6f75e7?source=copy_link)
 <br><br>
 
 
@@ -70,13 +73,3 @@
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayukyung123&theme=tokyonight" />
   
-  <br><br>
-
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jh123000" />
-  
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=nayukyung123&theme=tokyonight" />
-
-
-  </div>
